@@ -1,1 +1,1 @@
-# phala-spanish-docs
+# Wiki-Spanish
